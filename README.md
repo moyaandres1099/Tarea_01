@@ -1,8 +1,11 @@
-# pr-ctica-Markdown
-Práctica en el lenguaje de marcado Markdown
+# Vinculacion del patrimonio cultural del Territorio Huertar de Zapaton en el Plan de Manejo del Parque Nacional La Cangreja
 
-# encabezado lvl 1
+Zapaton y el Parque Nacional La Cangreja se encuentra en el canton de **Puriscal**
 
-## encabezado lvl 2
+## Extension del Parque Nacional La Cangreja
 
-**negrita**
+La Cangreja tiene una extension de _2.519 a 2.570 hectáreas_
+
+### Pagina del Plan de Manejo actual
+
+[Sitio web del SINAC](https://sinac.go.cr/ES/ac/accvc/pnlc/Paginas/default.aspx)
