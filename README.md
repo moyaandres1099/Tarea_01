@@ -15,3 +15,5 @@ La Cangreja tiene una extension de _2.519 a 2.570 hectáreas_
 *En esta seccion daremos un poco de contexto acerca de la poblacion indigena Huetar*
 
 [Wikipedia](https://es.wikipedia.org/wiki/Huetares)
+
+![Liga campeon](img/Bandera_de_la_Liga_Deportiva_Alajuelense.jpg)
