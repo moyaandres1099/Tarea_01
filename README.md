@@ -18,5 +18,5 @@ La Cangreja tiene una extension de _2.519 a 2.570 hectáreas_
 
 ![Huetar](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Costa_Rican_-_Warrior_Figure_-_Walters_20092025_-_Three_Quarter_Left.jpg/250px-Costa_Rican_-_Warrior_Figure_-_Walters_20092025_-_Three_Quarter_Left.jpg)
 
-![Cascada](Cascada Zapaton.jpg)
+![Cascada](CascadaZapaton.jpg)
 
