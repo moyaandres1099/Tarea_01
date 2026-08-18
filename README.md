@@ -16,4 +16,4 @@ La Cangreja tiene una extension de _2.519 a 2.570 hectáreas_
 
 [Wikipedia](https://es.wikipedia.org/wiki/Huetares)
 
-![Liga campeon](img/Bandera_de_la_Liga_Deportiva_Alajuelense.jpg)
+![Huetar](img/https://upload.wikimedia.org/wikipedia/commons/9/91/Costa_Rican_-_Warrior_Figure_-_Walters_20092025_-_Three_Quarter_Left.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original)
