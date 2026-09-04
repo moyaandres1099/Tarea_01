@@ -1,6 +1,8 @@
 # Vinculacion del patrimonio cultural del Territorio Huertar de Zapaton en el Plan de Manejo del Parque Nacional La Cangreja
 
-Zapaton y el Parque Nacional La Cangreja se encuentra en el canton de **Puriscal**
+El territorio indígena Huetar de Zapatón y el Parque Nacional La Cangreja se encuentran en el canton de **Puriscal** , en la provincia de San José. Especificamente el territorio de Zapaton se encuentra en el distrito de Chires, por otra parte el Parque Nacional La Cangreja se encuentra entre los distritos de Mercedes Sur y el distrito de Chires como lo podemos apreciar en el siguiente mapa:
+
+
 
 ## Extension del Parque Nacional La Cangreja
 
