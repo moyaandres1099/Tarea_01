@@ -49,7 +49,7 @@ La Cangreja limita con la Reserva Indígena de Zapatón, aspecto que ayudaría a
 
 ![Cascada](Cascada_Zapaton.jpg)
 
-### Bibliogragia
+### Bibliografia
 - Organización Internacional del Trabajo. (1989). Convenio sobre pueblos indígenas y tribales, 1989 (núm. 169). Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos.
   [OIT](https://www.ohchr.org/es/instruments-mechanisms/instruments/indigenous-and-tribal-peoples-convention-1989-no-169)
 - Programa Estado de la Nación. (2016). Atlas de los pueblos indígenas de Costa Rica. CONARE.
