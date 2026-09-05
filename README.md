@@ -4,7 +4,7 @@ El territorio indígena Huetar de Zapatón y el Parque Nacional La Cangreja se e
 
 ![Ubicacion](Area_de_estudio.png)
 
-<h1 align="center">Elaboración propia</h1>
+### <h1 align="center">Elaboración propia</h1>
 
 ![Ubicacion](PN_La_Cangreja_Territorio_de_Zapaton.png)
 
