@@ -4,7 +4,11 @@ El territorio indígena Huetar de Zapatón y el Parque Nacional La Cangreja se e
 
 ![Ubicacion](Area_de_estudio.png)
 
+<h1 align="center">Elaboración propia</h1>
+
 ![Ubicacion](PN_La_Cangreja_Territorio_de_Zapaton.png)
+
+<h1 align="center">Elaboración propia</h1>
 
 ## Extension del Parque Nacional La Cangreja
 
@@ -22,7 +26,7 @@ La Cangreja tiene una extension de _2.519 a 2.570 hectáreas_
 
 ![Huetar](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Costa_Rican_-_Warrior_Figure_-_Walters_20092025_-_Three_Quarter_Left.jpg/250px-Costa_Rican_-_Warrior_Figure_-_Walters_20092025_-_Three_Quarter_Left.jpg)
 
-#### *Muchos de los sitios sagrados de la población Huetar de Zapatón surgen de los ríos, nacientes quebradas y principalmente cascadas*
+####  En base al trabajo practico academico que realice en el SINAC nos enteramos por medio de diversos actores locales que  *Muchos de los sitios sagrados de la población Huetar de Zapatón surgen de los ríos, nacientes quebradas y principalmente cascadas*
 
 ![Cascada](Cascada_Zapaton.jpg)
 
