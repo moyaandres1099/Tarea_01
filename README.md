@@ -1,6 +1,6 @@
-# Vinculacion del patrimonio cultural del Territorio Huetar de Zapaton en el Plan de Manejo del Parque Nacional La Cangreja
+# Vinculacion del patrimonio cultural del Territorio Huetar de Zapatón en el Plan de Manejo del Parque Nacional La Cangreja
 
-El territorio indígena Huetar de Zapatón y el Parque Nacional La Cangreja se encuentran en el cantón de **Puriscal** , en la provincia de San José, Costa Rica. Específicamente el territorio de Zapatón se encuentra en el distrito de Chires y por otra parte el Parque Nacional La Cangreja se encuentra entre los distritos de Mercedes Sur y el distrito de Chires como lo podemos apreciar en los siguientes mapas:
+El territorio indígena Huetar de Zapatón y el Parque Nacional La Cangreja se encuentran en el cantón de **Puriscal** , en la provincia de San José, Costa Rica. Específicamente el Territorio de Zapatón se encuentra en el distrito de Chires y por otra parte el Parque Nacional La Cangreja se encuentra entre los distritos de Mercedes Sur y el distrito de Chires como lo podemos apreciar en los siguientes mapas:
 
 ![Ubicacion](Area_de_estudio.png)
 
@@ -49,3 +49,10 @@ La Cangreja limita con la Reserva Indígena de Zapatón, aspecto que ayudaría a
 
 ![Cascada](Cascada_Zapaton.jpg)
 
+### Bibliogragia
+- Organización Internacional del Trabajo. (1989). Convenio sobre pueblos indígenas y tribales, 1989 (núm. 169). Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos.
+  [OIT](https://www.ohchr.org/es/instruments-mechanisms/instruments/indigenous-and-tribal-peoples-convention-1989-no-169)
+- Programa Estado de la Nación. (2016). Atlas de los pueblos indígenas de Costa Rica. CONARE.
+- Procuraduría General de la República. (1992). Convenio N.° 169 sobre pueblos indígenas y tribales en países independientes, Ley N.° 7316.
+- SINAC (Sistema Nacional de Áreas de Conservación). (2018). Actualización del Plan General de Manejo del Parque Nacional La Cangreja. Área de Conservación Cordillera Central.
+  
