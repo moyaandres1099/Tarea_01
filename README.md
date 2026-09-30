@@ -63,4 +63,10 @@ Nos enteramos por medio de diversos actores locales que **muchos de los sitios s
 ### Elaboración propia
 
 ## Bibliografía
+- Organización Internacional del Trabajo. (1989). Convenio sobre pueblos indígenas y tribales, 1989 (núm. 169). Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos.
+  [OIT](https://www.ohchr.org/es/instruments-mechanisms/instruments/indigenous-and-tribal-peoples-convention-1989-no-169)
+- Programa Estado de la Nación. (2016). Atlas de los pueblos indígenas de Costa Rica. CONARE.
+- Procuraduría General de la República. (1992). Convenio N.° 169 sobre pueblos indígenas y tribales en países independientes, Ley N.° 7316.
+- SINAC (Sistema Nacional de Áreas de Conservación). (2018). Actualización del Plan General de Manejo del Parque Nacional La Cangreja. Área de Conservación Cordillera Central.
+
   
